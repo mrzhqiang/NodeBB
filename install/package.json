@@ -79,17 +79,17 @@
         "mousetrap": "^1.6.1",
         "mubsub-nbb": "^1.5.0",
         "nconf": "^0.10.0",
-        "nodebb-plugin-composer-default": "6.1.16",
+        "nodebb-plugin-composer-default": "6.1.17",
         "nodebb-plugin-dbsearch": "3.0.3",
         "nodebb-plugin-emoji": "^2.2.5",
         "nodebb-plugin-emoji-android": "2.0.0",
-        "nodebb-plugin-markdown": "8.8.5",
+        "nodebb-plugin-markdown": "8.8.6",
         "nodebb-plugin-mentions": "2.3.0",
         "nodebb-plugin-soundpack-default": "1.0.0",
         "nodebb-plugin-spam-be-gone": "0.5.5",
         "nodebb-rewards-essentials": "0.0.13",
         "nodebb-theme-lavender": "5.0.8",
-        "nodebb-theme-persona": "9.1.0",
+        "nodebb-theme-persona": "9.1.4",
         "nodebb-theme-slick": "1.2.18",
         "nodebb-theme-vanilla": "10.1.12",
         "nodebb-widget-essentials": "4.0.11",
@@ -122,7 +122,6 @@
         "spider-detector": "1.0.18",
         "toobusy-js": "^0.5.1",
         "uglify-es": "^3.3.9",
-        "util.promisify": "1.0.0",
         "validator": "10.9.0",
         "winston": "3.1.0",
         "xml": "^1.0.1",
@@ -150,7 +149,7 @@
         "url": "https://github.com/NodeBB/NodeBB/issues"
     },
     "engines": {
-        "node": ">=6"
+        "node": ">=8"
     },
     "maintainers": [
         {
